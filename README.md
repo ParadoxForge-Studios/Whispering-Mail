@@ -1,8 +1,14 @@
-📮 Whispering Mail A cozy postal puzzle adventure — built in 30 days Whispering Mail is a short, atmospheric puzzle-adventure where you play as the mail carrier of a quiet little village. Every day you receive a stack of mysterious letters filled with cryptic hints, symbols, and half-revealed names. Your task is to discover who each letter truly belongs to through conversations, observation, and small puzzles.
+📮 Whispering Mail 
+A cozy postal puzzle adventure — built in 30 days Whispering Mail is a short, atmospheric puzzle-adventure where you play as the mail carrier of a quiet little village. Every day you receive a stack of mysterious letters filled with cryptic hints, symbols, and half-revealed names. Your task is to discover who each letter truly belongs to through conversations, observation, and small puzzles.
 
-🕒 This game was developed as a fully playable 30-day student project, with a strong focus on small scope, mood, and polished core mechanics. No combat. No stress. Just calm exploration, cozy mystery, and gentle storytelling.
+🕒 This game was developed as a fully playable 30-day student project, with a strong focus on small scope, mood, and polished core mechanics. 
+No combat. No stress. Just calm exploration, cozy mystery, and gentle storytelling.
 
-🌿 Gameplay 🧩 Core Loop Pick up your mail at the post office Inspect the letters (names, symbols, cryptic hints) Explore the village and talk to residents Solve small puzzles to identify the recipient Deliver the correct letter --> receive a short reaction or mini cutscene When all letters are delivered --> the next day begins The challenge gradually increases over 6–7 in-game days.
+🌿 Gameplay 🧩 Core Loop Pick up your mail at the post office Inspect the letters (names, symbols, cryptic hints). 
+Explore the village and talk to residents Solve small puzzles to identify the recipient. 
+Deliver the correct letter --> receive a short reaction or mini cutscene. 
+When all letters are delivered --> the next day begins. 
+The challenge gradually increases over 6–7 in-game days.
 
 🎭 Characters The village features 8 unique residents, each with their own mini-puzzle: 
 🧓 The forgetful grandpa by the pond 
